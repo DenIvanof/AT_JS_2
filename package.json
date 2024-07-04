@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/DenIvanof/AT_JS_2/issues"
   },
-  "homepage": "https://github.com/DenIvanof/AT_JS_2#readme"
+  "homepage": "https://github.com/DenIvanof/AT_JS_2#readme",
+  "devDependencies": {
+    "cypress": "^13.13.0"
+  }
 }
